@@ -13,6 +13,26 @@
 - 🌐 Backend: Asp.Net, Entity Framework
 - 🚀 Other: Rest API's
 
+🛠 Tools & DevOps
+
+Git & GitHub
+
+Postman (API testing)
+
+Visual Studio / VS Code
+
+IIS Deployment
+
+Basic CI/CD knowledge
+
+📊 Reporting & Business Logic
+
+Business-oriented modules (Billing, Inventory, Reports)
+
+PDF / Excel report generation
+
+Data validation & error handling
+
 ## Let's Connect!
 
 - 🔗 [LinkedIn](linkedin.com/in/snehal-kumbhar-860a1b230)
